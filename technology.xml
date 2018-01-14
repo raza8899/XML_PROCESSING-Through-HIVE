@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<technology>
+  <book>
+    <name>Hadoop In Action</name>
+    <price>$44.95</price>
+    <author>Chuck_Lam</author>
+    <copies>1500</copies>
+  </book>
+  <book>
+    <name>A Press- Pro Hadoop</name>
+    <price>$29.99</price>
+    <author>Venner-Jason</author>
+    <copies>7600</copies>
+  </book>
+  <book>
+       <name>Hadoop Definitive Guide</name>
+       <price>$65.75</price>
+       <author>Tom_White</author>
+       <copies>9500</copies>
+  </book>
+  <book>
+      <name>Spark In Action</name>
+    <price>$49.99</price>
+    <author>Peter</author>
+    <copies>400</copies>
+  </book>
+  <book>
+     <name>Scala In Action</name>
+     <price>$44.99</price>
+     <author>Nilanjan_Raychaudhuri</author>
+     <copies>700</copies>
+  </book>
+</technology>
