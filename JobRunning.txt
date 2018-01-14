@@ -1,0 +1,33 @@
+raza@amir-pc:~/HadoopSample/HIVE$ hive -f XmlProcessing.hql 
+
+Logging initialized using configuration in jar:file:/home/raza/Install/apache-hive-1.2.1-bin/lib/hive-common-1.2.1.jar!/hive-log4j.properties
+OK
+default
+tmp
+Time taken: 1.177 seconds, Fetched: 2 row(s)
+OK
+Time taken: 0.028 seconds
+Added [/home/raza/Documents/hivexmlserde-1.0.5.3.jar] to class path
+Added resources: [/home/raza/Documents/hivexmlserde-1.0.5.3.jar]
+OK
+buckettab
+buckettab1
+managed1
+myext
+newpartitab
+partitab1
+Time taken: 0.032 seconds, Fetched: 6 row(s)
+OK
+Time taken: 0.885 seconds
+Loading data to table tmp.xmltab
+Table tmp.xmltab stats: [numFiles=0, totalSize=0]
+OK
+Time taken: 0.794 seconds
+OK
+Hadoop In Action	$44.95	Chuck_Lam	1500
+A Press- Pro Hadoop	$29.99	Venner-Jason	7600
+Hadoop Definitive Guide	$65.75	Tom_White	9500
+Spark In Action	$49.99	Peter	400
+Scala In Action	$44.99	Nilanjan_Raychaudhuri	700
+Time taken: 0.313 seconds, Fetched: 5 row(s)
+
